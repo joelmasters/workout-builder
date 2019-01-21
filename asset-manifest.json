@@ -1,14 +1,13 @@
 {
-  "main.css": "/workout-builder/static/css/main.60093061.chunk.css",
-  "main.js": "/workout-builder/static/js/main.50af88c8.chunk.js",
-  "main.js.map": "/workout-builder/static/js/main.50af88c8.chunk.js.map",
-  "static/js/1.fa92c112.chunk.js": "/workout-builder/static/js/1.fa92c112.chunk.js",
-  "static/js/1.fa92c112.chunk.js.map": "/workout-builder/static/js/1.fa92c112.chunk.js.map",
+  "main.css": "/workout-builder/static/css/main.da7301c3.chunk.css",
+  "main.js": "/workout-builder/static/js/main.ac3e3747.chunk.js",
+  "main.js.map": "/workout-builder/static/js/main.ac3e3747.chunk.js.map",
+  "static/js/1.75f853f5.chunk.js": "/workout-builder/static/js/1.75f853f5.chunk.js",
+  "static/js/1.75f853f5.chunk.js.map": "/workout-builder/static/js/1.75f853f5.chunk.js.map",
   "runtime~main.js": "/workout-builder/static/js/runtime~main.2b5daeab.js",
   "runtime~main.js.map": "/workout-builder/static/js/runtime~main.2b5daeab.js.map",
-  "static/media/logo.svg": "/workout-builder/static/media/logo.5d5d9eef.svg",
-  "static/css/main.60093061.chunk.css.map": "/workout-builder/static/css/main.60093061.chunk.css.map",
+  "static/css/main.da7301c3.chunk.css.map": "/workout-builder/static/css/main.da7301c3.chunk.css.map",
   "index.html": "/workout-builder/index.html",
-  "precache-manifest.59aa04927274978c466fcb59fde0e2ab.js": "/workout-builder/precache-manifest.59aa04927274978c466fcb59fde0e2ab.js",
+  "precache-manifest.375580045b73ec8f092143b0dbc0adbf.js": "/workout-builder/precache-manifest.375580045b73ec8f092143b0dbc0adbf.js",
   "service-worker.js": "/workout-builder/service-worker.js"
 }
