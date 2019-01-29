@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/workout-builder/static/css/main.22d7e538.chunk.css"
   },
   {
-    "revision": "3a6f38efb41b37b6df4b454bc22b6bae",
+    "revision": "d10e4b55865336f7366ea0ff86f8b0fa",
     "url": "/workout-builder/index.html"
   }
 ];
