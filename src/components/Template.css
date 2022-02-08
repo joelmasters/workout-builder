@@ -1,0 +1,34 @@
+.template-card {
+  min-height: 150px;
+  width: 200px;
+  background-color: #fff;
+  color: #111;
+  position: relative;
+  text-align: center;
+  margin: 10px auto;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 2px;
+}
+.template-card__title-box {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  height: 50px;
+  width: 100%;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  background-color: #0598EC; 
+}
+.template-card__title {
+  font-size: 1.2em;
+  margin: 0px auto;
+  margin-bottom: 25px;
+  padding-top: 10px;
+  text-align: center;
+  color: #FFF;
+}
+.template-card__description {
+  text-align: left;
+  padding-top: 80px;
+}
